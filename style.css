@@ -1,0 +1,33 @@
+#icon1{
+    width:60px;
+    height:30px;
+    transition: .2s;
+    color:brown;
+
+
+}
+#icon1:hover{
+    width:90px;
+    height:80px;
+    color:rgb(159, 235, 92);
+}
+#log-btn{
+    text-decoration-line: none;
+    
+}    
+#sign-btn{
+    text-decoration-line: none;
+}
+#face{
+    color: aliceblue;
+    background-color:blue;
+    padding:5px 13px;
+    margin-bottom: 10px;
+}
+#whats{
+    color:aliceblue;
+    background-color:green;
+    padding:5px 10px;
+    margin-bottom: 10px;
+   
+}
